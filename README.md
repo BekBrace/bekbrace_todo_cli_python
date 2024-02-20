@@ -5,7 +5,7 @@ Todos are stored in a pickle file named todos.pkl.
 The application uses the terminal to interact with the user.
 
 
-#Features
+# Features
 Add a new todo with a title and automatically record the creation time.
 Display all todos with their corresponding IDs, titles, creation times, and completion status.
 Mark a todo as complete.
