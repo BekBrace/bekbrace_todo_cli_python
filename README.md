@@ -1,4 +1,4 @@
-#Todo App
+# Todo App
 This is a simple command-line todo application written in Python. 
 It allows users to add, delete, and mark todos as complete. 
 Todos are stored in a pickle file named todos.pkl. 
