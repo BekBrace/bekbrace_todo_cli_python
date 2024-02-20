@@ -42,7 +42,7 @@ def print_all_todos():
 
     # Iterate through todos and print each one
     for i, todo in enumerate(todos):
-        print(f"| {i + 1:2} | {todo.title:35} | {todo.created_at:12} | {'✅' if todo.is_completed else '❌':^11} |")
+        print(f"| {i + 1:2} | {todo.title:35} | {todo.created_at:12} | {'✅' if todo.is_completed else '❌':^11}|")
 
     print("+----+-------------------------------------+--------------+-------------+")
 
