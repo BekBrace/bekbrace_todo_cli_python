@@ -16,19 +16,16 @@ To run the application, follow these steps:
 
 Clone the repository:
 ```bash
-Copy code
 git clone https://github.com/BekBrace/bekbrace-python-todo.git
 ```
 
 Navigate to the project directory:
 ```bash
-Copy code
 cd bekbrace-python-todo
 ```
 Run the application:
 ```
 bash
-Copy code
 python todo.py
 ```
 # Usage
