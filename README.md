@@ -4,7 +4,8 @@ It allows users to add, delete, and mark todos as complete.
 Todos are stored in a pickle file named todos.pkl. 
 The application uses the terminal to interact with the user.
 
-![image](https://github.com/BekBrace/bekbrace_todo_cli_python/assets/60483846/593c38c0-66c8-4c59-ba0b-23cedc4bece4)
+![image](https://github.com/BekBrace/bekbrace_todo_cli_python/assets/60483846/a3885a99-a335-4b64-a163-1761c1801e48)
+
 
 
 # Features
