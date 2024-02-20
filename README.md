@@ -15,12 +15,14 @@ Getting Started
 To run the application, follow these steps:
 
 Clone the repository:
-```bash
+```
+bash
 git clone https://github.com/BekBrace/bekbrace-python-todo.git
 ```
 
 Navigate to the project directory:
-```bash
+```
+bash
 cd bekbrace-python-todo
 ```
 Run the application:
